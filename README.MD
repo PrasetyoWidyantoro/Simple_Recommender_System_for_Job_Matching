@@ -12,7 +12,11 @@ https://medium.com/@prasetyow938/simple-recommender-system-for-job-matching-edb0
 
 * Secara umum, mencari kandidat yang tepat untuk suatu posisi pekerjaan dapat menjadi tugas yang rumit jika dilakukan dengan cara manual yang terkesan banyak memakan waktu dan kurang efisien dan bagi kandidat pula tidak bisa lebih jauh mengekplorasi potensi yang dimiliki untuk segera mendapatkan pekerjaan. JobLibrary.weha Sebagai perusahaan platform berbasis online yang mempertemukan antara pencari kerja dan penyedia lapangan kerja sering kali memiliki banyak pekerjaan yang berbeda dengan persyaratan yang beragam.  
 
+<<<<<<< HEAD
 * Program ini merupakan salah satu implementasi dari recommender system — content based filtering Personalized yang dapat digunakan dalam proses rekrutmen kandidat dalam posisi pekerjaan dan dalam konteks lain dapat pula membantu kandidat dalam mendapatkan rekomendasi lowongan pekerjaan yang sekiranya relevan dengan karakteristiknya (similarity).
+=======
+* Program ini merupakan salah satu implementasi dari recommender system — content based - Personalized yang dapat digunakan dalam proses rekrutmen kandidat dalam posisi pekerjaan dan dalam konteks lain dapat pula membantu kandidat dalam mendapatkan rekomendasi lowongan pekerjaan yang sekiranya relevan dengan karakteristiknya (similarity).
+>>>>>>> b142f67118d2f36fce1ebb28bb0bc55dc3bc93fe
 
 ## Solusi
 * Untuk mengatasi permasalahan ini, telah dikembangkan sebuah Recommender System — content based filtering. Sistem ini menggunakan data keterampilan dan atribut lainnya dari kandidat dan pekerjaan yang tersedia untuk merekomendasikan posisi yang cocok untuk setiap kandidat.  
