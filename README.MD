@@ -14,9 +14,6 @@ https://medium.com/@prasetyow938/simple-recommender-system-for-job-matching-edb0
 
 * Program ini merupakan salah satu implementasi dari recommender system — content based filtering Personalized yang dapat digunakan dalam proses rekrutmen kandidat dalam posisi pekerjaan dan dalam konteks lain dapat pula membantu kandidat dalam mendapatkan rekomendasi lowongan pekerjaan yang sekiranya relevan dengan karakteristiknya (similarity).
 
-* Program ini merupakan salah satu implementasi dari recommender system — content based - Personalized yang dapat digunakan dalam proses rekrutmen kandidat dalam posisi pekerjaan dan dalam konteks lain dapat pula membantu kandidat dalam mendapatkan rekomendasi lowongan pekerjaan yang sekiranya relevan dengan karakteristiknya (similarity).
-
-
 ## Solusi
 * Untuk mengatasi permasalahan ini, telah dikembangkan sebuah Recommender System — content based filtering. Sistem ini menggunakan data keterampilan dan atribut lainnya dari kandidat dan pekerjaan yang tersedia untuk merekomendasikan posisi yang cocok untuk setiap kandidat.  
 
